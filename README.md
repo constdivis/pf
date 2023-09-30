@@ -39,3 +39,6 @@
 #### Предобработка данных
 [Преобразование данных из табличной формы в текст](https://github.com/constdivis/registration-form-data-preprocessing)
 
+### Сертификаты и дипломы
+[Свидетельство](pict/certificate_Netotgy_DS_NLP.png) об обучении по программе Data Science: обработка естественно языка (Нетология, 2022 - 2023)
+
