@@ -18,10 +18,8 @@ My portfolio
 ### Инструменты:
 - MySQL, PostgreSQL
 - R
-	- Quanteda
-	- Stringr
-	- Tidyverse
-	- rvest
+	- Quanteda, Tidyverse
+	- Stringr, rvest
 - Python
 	- NumPy, Pandas, SciPy
 	- Plotly, Seaborn
@@ -33,3 +31,4 @@ My portfolio
 - LaTeX
 - Drupal
 - Linux
+
