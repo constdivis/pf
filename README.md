@@ -1,5 +1,4 @@
-markdown: kramdown
-auto_ids: false
+<h1><a id="h1" class="anchor" aria-hidden="true" href="#h1"></a>h1</h1>
 
 ## Константин Дивисенко
 **Аналитик данных (обработка естественного языка) / NLP Data Scientist**
