@@ -1,3 +1,6 @@
+markdown: kramdown
+auto_ids: false
+
 ## Константин Дивисенко
 **Аналитик данных (обработка естественного языка) / NLP Data Scientist**
 
